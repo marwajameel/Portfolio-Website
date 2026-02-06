@@ -64,7 +64,6 @@ You will find all the components used and you can edit your information accordin
     <a href="https://github.com/rahuljha4171/Portfolio-Website/issues">Report A Bug</a> &nbsp; &nbsp;
     🔹
     <a href="https://github.com/rahuljha4171/Portfolio-Website/issues">Request A Feature</a>
-
 </h3>
 
 <p align="center">
